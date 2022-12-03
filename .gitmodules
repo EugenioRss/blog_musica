@@ -1,0 +1,4 @@
+[submodule "orbitemusicali/public"]
+	path = orbitemusicali/public
+	url = https://github.com/EugenioRss/orbitemusicali.github.io.git
+	branch = main
